@@ -95,6 +95,9 @@ nav img {
 .fas {
   display: none;
 }
+#links{
+    transition: all 0.5s;
+  }
 /* ------------------------------------------------------HEADER NAVIGATION LOGO HOMe page------------------------------------ */
 /* -----------------------------------------MEDIA QUARIES For HOME PAGE---------------------------------- */
 @media screen and (max-width: 700px) {
